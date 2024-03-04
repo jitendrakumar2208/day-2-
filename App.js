@@ -1,17 +1,17 @@
 var conn = (
     <div class = "box">
-     <h1 class = "box">Topic Covered</h1>
-     <p>The Following is the list of all the  topic in the MDN Learning Area</p>
+     <h1 class = "box">Learn Web Development</h1>
+     <br />
+     <p>Welcome to the MDN Learning area. This set of articles aims to guide complete to web development with all that they need to start conding website</p>
+
      <br />
 
-     <p class = "box"><a href="http://">Getting Started with web</a></p>
-        <p>provides a practical Knowladge for web development to complere beginner</p>
+     <p >The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable." From there, you should be able to start making your way, learning from the rest of MDN, and other intermediate to advanced resources that assume a lot of previous knowledge. </p>
+        
+    <br/>
 
-     <p class = "box"><a href="http://">HTML - Structuring the web</a> </p>
-     <p>HTMl is language that we used to structure the different parts of our content and define what their meaning or purpose is.</p>
-
-     <p class = "box"><a href="http://">CSS- Styling the web</a></p>
-     <p class = "box">CSS is language that we used to control of our content style and layout. as well ass adding behaiviour like animation.this topic provides comprehensive coverage of css</p>
+     <p>If you are a complete beginner, web development can be challenging — we will hold your hand and provide enough detail for you to feel comfortable and learn the topics properly. You should feel at home whether you are a student learning web development (on your own or as part of a class), a teacher looking for class
+materials, a hobbyist, or someone who just wants to understand more about how web technologies work. </p>
     </div>
 )
 
